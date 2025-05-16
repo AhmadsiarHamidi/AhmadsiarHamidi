@@ -1,20 +1,48 @@
-# Hello! I'm Ahmad Siar Hamidi (You can call me Ahmad) 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<!-- Banner -->
+<h1 align="center">
+  <pre>
+   █████╗ ███╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗██╗██████╗ 
+  ██╔══██╗████╗  ██║██║ ██╔╝██╔══██╗████╗ ████║██║██╔══██╗
+  ███████║██╔██╗ ██║█████╔╝ ███████║██╔████╔██║██║██████╔╝
+  ██╔══██║██║╚██╗██║██╔═██╗ ██╔══██║██║╚██╔╝██║██║██╔═══╝ 
+  ██║  ██║██║ ╚████║██║  ██╗██║  ██║██║ ╚═╝ ██║██║██║     
+  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝     
+  </pre>
+</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadsiarhamidi)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadsiarHamidi)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hsa_st11)
+<p align="center">Hey there, I'm Ahmad Siar Hamidi — but you can call me Ahmad! 👋</p>
 
-## 🔧 My Skills
-- Programming in JavaScript 💻  
-- Programming in Python 🐍  
-- Front-End Development  
-- Web Development  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmadsiarhamidi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AhmadsiarHamidi"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://t.me/hsa_st11"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+</p>
 
-### 🧠 Skills in Pictures
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40"/> <!-- Python -->
-<img src="https://media.giphy.com/media/3o6Zt5kPHzK0Qbm1bO/giphy.gif" width="40"/> <!-- JavaScript -->
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40"/> <!-- HTML -->
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40"/> <!-- CSS -->
+---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadsiarHamidi&show_icons=true&theme=dracula)
+> 💡 **About Me**  
+> I'm a Computer Science student passionate about **Cybersecurity**, **Web Development**, and everything tech-related.  
+> Currently exploring new tech stacks and working on cool projects.
+
+---
+
+## 🚀 Highlight: My First Real Project
+
+📦 **Project Name:** Network Intrusion Prevention System  
+🔗 **GitHub Repo:** [👉 Click here to view](https://github.com/AhmadsiarHamidi/Network-IPS-System)  
+📌 **Short Description:**  
+> My very first real-world project: a basic **N-IPS (Network Intrusion Prevention System)** developed using tools like `Tshark`, `Python`, and simple firewall rules.  
+> It detects suspicious network traffic and automatically logs or blocks malicious IPs.
+
+✨ Technologies used:  
+`Python`, `Shell Scripts`, `Tshark`, `iptables`, `Netfilter`
+
+---
+
+## 🛠️ My Tech Stack
+
+```diff
++ JavaScript (React, DOM)
++ Python (Scripts, Automation)
++ HTML & CSS (Front-End)
+- Learning more every day!
