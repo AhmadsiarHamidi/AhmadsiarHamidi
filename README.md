@@ -1,4 +1,4 @@
-# Hello! I'm Ahmad Siar Hamidi (You can call me Ahmad) 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hello! I'm Ahmadsiar Hamidi (You can call me Ahmad) 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadsiarhamidi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadsiarHamidi)
@@ -30,7 +30,6 @@
 
 A simple **Network Intrusion Prevention System (N-IPS)** that I built using:
 - 🐍 Python for traffic monitoring
-- 📡 Tshark for packet analysis
 - 🔥 Firewall rules to block suspicious traffic
 - 📁 Logging system for alerts
 
