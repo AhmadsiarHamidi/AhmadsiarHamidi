@@ -22,19 +22,16 @@
 
 ---
 
-## 🛡️ My First Project: Network-IPS-System
+## 🚀 My Projects
 
-> 🚀 I'm excited to share my **first real-world project** on GitHub!
+- **Network Intrusion Prevention System**  
+  A network security project for detecting and preventing suspicious intrusions using Python.  
+  [GitHub Link](https://github.com/AhmadsiarHamidi/Network-IPS-System)
 
-🔗 [👉 Click here to view the full project](https://github.com/AhmadsiarHamidi/Network-IPS-System)
-
-A simple **Network Intrusion Prevention System (N-IPS)** that I built using:
-- 🐍 Python for traffic monitoring
-- 🔥 Firewall rules to block suspicious traffic
-- 📁 Logging system for alerts
-
-It was created as part of a collaborative security project with my teammates.  
-A great step into the world of **cybersecurity**!
+- **Library Management System**
+  A collaborative project with my teammate Sajad Karimii.    
+  A library management system with book and member management features, developed collaboratively with a teammate.  
+  [GitHub Link](https://github.com/sajadkarimii/Library_management)
 
 ---
 
