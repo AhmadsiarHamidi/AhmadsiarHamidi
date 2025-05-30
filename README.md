@@ -26,7 +26,7 @@
 
 - **Network Intrusion Prevention System**  
   A network security project for detecting and preventing suspicious intrusions using Python.  
-  [GitHub Link](https://github.com/AhmadsiarHamidi/Network-IPS-System)
+  [GitHub Link]([https://github.com/AhmadsiarHamidi/Network-IPS-System](https://github.com/mahdigorzedin3/Network-IPS-System))
 
 - **Library Management System**
   A collaborative project with my teammate Sajad Karimii.    
